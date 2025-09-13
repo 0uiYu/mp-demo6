@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module></module>
-        <module>demo2</module>
+
     </modules>
 
     <properties>
